@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/test.dir/test.cc.o CMakeFiles/test.dir/helper.cc.o CMakeFiles/test.dir/rebelfleet.cc.o CMakeFiles/test.dir/imperialfleet.cc.o CMakeFiles/test.dir/battle.cc.o  -o test 
